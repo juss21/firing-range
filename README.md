@@ -36,7 +36,8 @@ python, pip, urllib, requests, PyQt5, PyQt5_sip
 
 ## images
 
-![shot1](https://01.kood.tech/git/kasepuu/passive/raw/branch/master/src/sprites/screenshot1.png)
-![shot2](https://01.kood.tech/git/kasepuu/passive/raw/branch/master/src/sprites/screenshot2.png)
+Forgot to show invisible wall in the audit video, but this is the wall:  
 
-### Author: [kasepuu](https://01.kood.tech/git/kasepuu)
+![shot1](https://01.kood.tech/git/juss/firing-range/raw/branch/master/invisible_wall.jpg)
+
+### Author: [juss](https://01.kood.tech/git/juss)
