@@ -1,38 +1,19 @@
-# Passive
+# Firing-Range
 
-This is a <img src="https://01.kood.tech/git/kasepuu/passive/raw/branch/master/src/sprites/icon.png" alt="Website Icon" width="20" height="20" />
-ssive project, with a "GUI"
+This is a video game project    
 
-Made with Python 3.10.12
+Made with Unreal Engine 5.3 
 
-Recommended links:
+## Download:
 
-- ip - https://stackoverflow.com/questions/24678308/how-to-find-location-with-ip-address-in-python
-- sites - https://github.com/Alfredredbird/alfred/tree/main
-- https://stackoverflow.com/questions/4349147/python-create-cookies-and-then-load-a-page-with-the-cookies
-- person dictionary - https://randomuser.me/documentation#format
+Might have bad performance on lower end computers.
 
-### REQUIREMENTS
+### [Linux download](https://drive.google.com/file/d/15nQ4OzUfTSTyQNP46TIQtyLaGDUc6KvZ/view?usp=drive_link)
+### [Windows download](https://drive.google.com/file/d/1k9OCjtgptHIjbqeoKXmfb53pBRuoZRx6/view?usp=drive_link) 
 
-```
-python, pip, urllib, requests, PyQt5, PyQt5_sip
-```
+# [Youtube Video](https://www.youtube.com/watch?v=gO5K8eFlFU8)
 
-## USAGE
-
-```
-    cd src
-    pip3 install -r requirements.txt
-    python3 main.py
-```
-
-```
-    commands must be executed in the GUI "terminal"
-```
-
-# [Youtube Video](https://youtu.be/C78Kvrt1zGo)
-
-### Audit questions: [HERE](https://github.com/01-edu/public/tree/master/subjects/cybersecurity/passive/audit)
+### Audit questions: [HERE](https://github.com/01-edu/public/tree/166a10990fd52772eb288a43da4e336226b6d4ea/subjects/gaming/firing-range/audit)
 
 ## images
 
