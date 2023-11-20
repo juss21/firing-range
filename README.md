@@ -11,8 +11,7 @@ Might have bad performance on lower end computers.
 ### [Linux download](https://drive.google.com/file/d/15nQ4OzUfTSTyQNP46TIQtyLaGDUc6KvZ/view?usp=drive_link)
 ### [Windows download](https://drive.google.com/file/d/1k9OCjtgptHIjbqeoKXmfb53pBRuoZRx6/view?usp=drive_link) 
 
-##
-# [Youtube Video](https://www.youtube.com/watch?v=gO5K8eFlFU8)
+# Youtube Video: [HERE](https://www.youtube.com/watch?v=gO5K8eFlFU8)
 
 ### Audit questions: [HERE](https://github.com/01-edu/public/tree/166a10990fd52772eb288a43da4e336226b6d4ea/subjects/gaming/firing-range/audit)
 
