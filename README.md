@@ -22,4 +22,5 @@ Forgot to show invisible wall in the audit video, but this is the wall:
 ![shot1](https://01.kood.tech/git/juss/firing-range/raw/branch/master/invisible_wall.jpg)
 
 
-### Author: [juss](https://github.com/juss21/firing-range/raw/master/invisible_wall.jpg)
+### Author: [juss](https://github.com/juss21/firing-range/blob/master/invisible_wall.jpg?raw=true)
+
